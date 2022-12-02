@@ -1,0 +1,7 @@
+Install docker.
+
+bash build.sh # make the docker image
+bash one-run.sh https://....yourrepo.... 1
+
+
+
